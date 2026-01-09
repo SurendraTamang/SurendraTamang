@@ -1,6 +1,8 @@
 # Hey, I'm Surendra 👋
 
-**Web Scraping Engineer** based in Nepal with 9 years of experience building production-grade data extraction systems.
+**Web Scraping Engineer**
+
+Web Scraping and Data Infrastructure Engineer based in Nepal with 9 years of experience building production-grade data extraction systems.
 
 I specialize in turning unstructured web data into clean, scalable pipelines. From e-commerce pricing intelligence to real estate aggregation, I've built scrapers that handle millions of records while respecting rate limits and avoiding detection.
 

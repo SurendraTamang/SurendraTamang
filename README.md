@@ -1,61 +1,66 @@
 # Hey, I'm Surendra 👋
 
-**Scraping & Data Infrastructure Engineer** from Nepal
+**Web Scraping Engineer** based in Nepal with 9 years of experience building production-grade data extraction systems.
 
-I build intelligent data extraction systems. 9 years turning unstructured web data into clean, scalable pipelines.
-
----
-
-### What I Do
-
-```python
-class Surendra:
-    role = "Scraping Infrastructure Engineer"
-
-    expertise = {
-        "extraction": ["Scrapy", "Playwright", "Selenium", "Puppeteer"],
-        "backend": ["Python", "Django", "FastAPI", "Node.js"],
-        "queues": ["Redis", "Celery", "BullMQ"],
-        "data": ["PostgreSQL", "MongoDB", "Pandas"],
-        "infra": ["Docker", "AWS", "Linux"]
-    }
-
-    currently_exploring = [
-        "AI-powered data extraction",
-        "Distributed scraping systems",
-        "LLM integration for intelligent parsing"
-    ]
-```
+I specialize in turning unstructured web data into clean, scalable pipelines. From e-commerce pricing intelligence to real estate aggregation, I've built scrapers that handle millions of records while respecting rate limits and avoiding detection.
 
 ---
 
-### Industries
+## Tech Stack
 
-| Domain | Work |
-|--------|------|
-| **E-commerce** | Product data, pricing intelligence, seller automation |
-| **Real Estate** | Listings aggregation, market data pipelines |
-| **Recruiting** | Job data, company intelligence |
-| **Finance** | Alternative data collection |
-| **Lead Gen** | B2B contact and company data |
+**Extraction:** Scrapy, Playwright, Selenium, Puppeteer, BeautifulSoup
+**Backend:** Python, Django, FastAPI, Node.js
+**Queues & Workers:** Redis, Celery, BullMQ
+**Databases:** PostgreSQL, MongoDB, Pandas
+**Infrastructure:** Docker, AWS EC2, Linux
 
 ---
 
-### Featured
+## What I Build
+
+**Production Scrapers** — High-volume data collection systems with proxy rotation, fingerprint management, and anti-detection measures.
+
+**Data Pipelines** — ETL workflows that transform raw HTML into structured data ready for analysis or storage.
+
+**Automation Tools** — Browser automation for tasks that require login sessions, JavaScript rendering, or complex user flows.
+
+**Distributed Systems** — Queue-based architectures that scale horizontally across multiple workers.
+
+---
+
+## Industries I've Worked In
+
+- **E-commerce** — Product catalogs, pricing intelligence, seller analytics, marketplace automation
+- **Real Estate** — Property listings aggregation, market data collection, MLS scraping
+- **Recruiting** — Job postings, company data, contact enrichment
+- **Finance** — Alternative data feeds, public records extraction
+- **Lead Generation** — B2B contact data, company intelligence
+
+---
+
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| [awesome-webscraping-blogs](https://github.com/SurendraTamang/awesome-webscraping-blogs) | Curated resources for web scraping |
-| [brand_analytics_automation](https://github.com/SurendraTamang/brand_analytics_automation) | Amazon Seller Central automation |
-| [django-celery-redis-example](https://github.com/SurendraTamang/django-celery-redis-example) | Task queue setup guide |
+| [awesome-webscraping-blogs](https://github.com/SurendraTamang/awesome-webscraping-blogs) | Curated list of technical blogs and resources for web scraping |
+| [brand_analytics_automation](https://github.com/SurendraTamang/brand_analytics_automation) | Amazon Seller Central automation for brand analytics |
+| [django-celery-redis-example](https://github.com/SurendraTamang/django-celery-redis-example) | Production-ready task queue setup with Django, Celery, and Redis |
 
 ---
 
-### Open To
+## Currently Exploring
 
-- Scraping infrastructure & data pipeline projects
-- AI-powered extraction systems
-- Contract & consulting work
+- AI-powered data extraction and intelligent parsing with LLMs
+- Distributed scraping architectures for large-scale collection
+- Modern anti-detection techniques and browser fingerprinting
+
+---
+
+## Open To
+
+- Contract and consulting work for scraping infrastructure
+- Data pipeline architecture and optimization
+- AI-powered extraction system development
 
 ---
 
